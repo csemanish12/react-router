@@ -5,8 +5,9 @@ export default function Navbar() {
         <header>
             <Link className="site-logo" to="/">#Vanlife</Link>
             <nav>
-                <Link to="/about">About</Link>
+                <Link to="/host">Host</Link>
                 <Link to="/vans">Vans</Link>
+                <Link to="/about">About</Link>
             </nav>
         </header>
 
